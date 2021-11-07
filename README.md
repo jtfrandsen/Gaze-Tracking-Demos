@@ -12,6 +12,7 @@
   - [Understanding Gaze Tracking Demo](#understanding-gaze-tracking-demo)
   - [Put That, There Demo](#put-that-there-demo)
   - [Simon Game Demo](#simon-game-demo)
+  - [UR Robot Point Programming](#ur-robot-point-programming)
 - [Analytical Applications](#analytical-applications)
   - [Quantifying Gaze Duration Demo](#quantifying-gaze-duration-demo)
   - [Board of Colorful Labels Demo](#board-of-colorful-labels-demo)
@@ -51,6 +52,7 @@ One of the potential use cases for gaze tracking is to employ data about the use
 - [Understanding Gaze Tracking Demo](#understanding-gaze-tracking-demo)
 - [Put That, There Demo](#put-that-there-demo)
 - [Simon Game Demo](#simon-game-demo)
+- [UR Robot Point Programming](#ur-robot-point-programming)
 
 ### Understanding Gaze Tracking Demo
 
@@ -82,7 +84,7 @@ The "Put That, There Demo" experiences can be downloaded [here](https://github.c
 
 ### Simon Game Demo
 
-The last example in the object manipulation category demonstrates how gaze tracking can be used to interact with specific components on a model. In contrast to the "Put That, There" Demo that focuses on moving an entire model, this AR experience is lets users select specific part of a model using their gaze. This is done by tracking the user's gaze in relation to a specified portion of the model, rather than the model in its entirety. The ability to identify certain parts of a model greatly enhances the capabilities of gaze tracking and creates many additional applications in which gaze tracking could be used.
+This example is a demonstration of how gaze tracking can enable users to interact with specific components on a model. In contrast to the "Put That, There" Demo that focuses on moving an entire model, this AR experience is lets users select specific part of a model using their gaze. This is done by tracking the user's gaze in relation to a specified portion of the model, rather than the model in its entirety. The ability to identify certain parts of a model greatly enhances the capabilities of gaze tracking and creates many additional applications in which gaze tracking could be used.
 
 This AR experience is an augmented reality recreation of the classic game ["Simon"](https://en.wikipedia.org/wiki/Simon_(game)) and can be played either by gaze or by touch. When playing by gaze, the user selects the game's buttons using their gaze vector (the blue vector in the above explanation). The vector's position is represented by an on-screen reticle to make selecting easier. When selected, the button in question is highlighted, then pressed after a brief delay. When playing by touch, the user selects the game's button simply by pressing on their device screen, much like what happens in the physical game. A brief screen recording of this AR experience is included below:
 
@@ -91,6 +93,10 @@ This AR experience is an augmented reality recreation of the classic game ["Simo
 [![Simon Game Demo Video](https://img.youtube.com/vi/56xJi2435xo/0.jpg)](https://www.youtube.com/watch?v=56xJi2435xo)
 
 The "Simon Game Demo" experience can be downloaded [here](https://github.com/PTC-Education/Gaze-Tracking-Demos/raw/main/AR%20Experience%20Files/Simon_Game.zip) or viewed with the [ThingMark](#thingmark-for-viewing-ar-experiences) above.
+
+### UR Robot Point Programming
+
+The last example in the object manipulation category demonstrates how gaze tracking can be used to interact with the physical world. This AR experience allows users to create waypoints and paths for a UR3e robot to follow in a way that is much more intuitive than using the supplied teach pendant. It is a stunning example of how spatially-relevant, data-rich augmented reality can be used to truly 
 
 ## Analytical Applications
 
