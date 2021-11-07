@@ -96,7 +96,17 @@ The "Simon Game Demo" experience can be downloaded [here](https://github.com/PTC
 
 ### UR Robot Point Programming
 
-The last example in the object manipulation category demonstrates how gaze tracking can be used to interact with the physical world. This AR experience allows users to create waypoints and paths for a UR3e robot to follow in a way that is much more intuitive than using the supplied teach pendant. It is a stunning example of how spatially-relevant, data-rich augmented reality can be used to truly 
+The last example in the object manipulation category demonstrates how gaze tracking can be used to interact with the physical world. This AR experience allows users to create waypoints and paths for a UR3e robot to follow in a way that is much more intuitive than using the supplied teach pendant. It is a great example of how spatially-relevant, data-rich augmented reality can enhance and transform an industrial workspace.
+
+One unique aspect of this AR exprience is that it incorperates a bidirectional flow of data. Data points from the physical UR3e's joints are harvested by KEPServerEX and passed to a ThingWorx server for processing. A seamless integration between ThingWorx and Vuforia Studio/View allows the joint angle values to update the digital robot in AR, which renders a digital twin that overlays directly on top of the physical robot. With the digital overlaying the physical, users can use this AR experience to define waypoints in three-dimensional space and create paths for the physical robot to follow. Data flows back to the robot as 3D coordinates are sent to ThingWorx, where they are transformed into [UR Script](https://www.zacobria.com/universal-robots-knowledge-base-tech-support-forum-hints-tips-cb2-cb3/index.php/ur-script-send-commands-from-host-pc-to-robot-via-socket-connection/) commands and forwared back to the physical UR3e. The robot interprets the commands and can then move accordingly. A data flow diagram for this AR experience is included below:
+
+*A simplified flow diagram showing how data flow bidirectionally between the physical and digital UR robots.*
+
+<img width="600" alt="UR Robot Data Flow Map" src="https://user-images.githubusercontent.com/86619231/140633177-a38aace1-0374-4332-99ad-51b09cd6c4a5.jpg">
+
+*A snippet from the experience showing how 3D waypoints are defined for the robot, using gaze tracking.*
+
+The "UR Robot Point Programming" experience can be downloaded [here](). The associated ThingWorx and Kepware components can be downloaded [here]() and [here](), respectively.
 
 ## Analytical Applications
 
