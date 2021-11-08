@@ -106,7 +106,7 @@ One unique aspect of this AR exprience is that it incorperates a bidirectional f
 
 *A snippet from the experience showing how 3D waypoints are defined for the robot, using gaze tracking.*
 
-The "UR Robot Point Programming" experience can be downloaded [here](). The associated ThingWorx and Kepware components can be downloaded [here]() and [here](https://github.com/jtfrandsen/Gaze-Tracking-Demos/raw/main/AR%20Experience%20Files/UR.Robot.GitHub.opf), respectively.
+The "UR Robot Point Programming" experience can be downloaded [here](). The associated ThingWorx and Kepware components can be downloaded [here]() and [here](https://github.com/jtfrandsen/Gaze-Tracking-Demos/raw/main/IIoT%20Files/UR.Robot.GitHub.opf), respectively.
 
 ## Analytical Applications
 
