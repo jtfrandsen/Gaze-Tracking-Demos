@@ -94,7 +94,7 @@ This AR experience operates by monitoring how focused the users gaze is on a cer
 
 <img width="450" alt="User Gaze Redirection Demo GIF" src="https://user-images.githubusercontent.com/86619231/142079431-a6436dd7-e8ae-40f8-a985-d14c00df6889.gif">
 
-The "User Gaze Redirection Demo" experience can be downloaded [here](https://github.com/PTC-Education/Gaze-Tracking-Demos/raw/main/AR%20Experience%20Files/User_Gaze_Redirection_Demo.zip).
+The "User Gaze Redirection Demo" experience can be downloaded [here](https://github.com/jtfrandsen/Gaze-Tracking-Demos/raw/main/AR%20Experience%20Files/User_Gaze_Redirection_Demo.zip).
 
 ### Simon Game Demo
 
