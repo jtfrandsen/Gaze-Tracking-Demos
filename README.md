@@ -11,6 +11,7 @@
 - [Object Manipulation](#object-manipulation)
   - [Understanding Gaze Tracking Demo](#understanding-gaze-tracking-demo)
   - [Put That, There Demo](#put-that-there-demo)
+  - [User Gaze Redirection Demo](#user-gaze-redirection-demo)
   - [Simon Game Demo](#simon-game-demo)
   - [UR Robot Point Programming](#ur-robot-point-programming)
 - [Analytical Applications](#analytical-applications)
@@ -51,6 +52,7 @@ One of the potential use cases for gaze tracking is to employ data about the use
 
 - [Understanding Gaze Tracking Demo](#understanding-gaze-tracking-demo)
 - [Put That, There Demo](#put-that-there-demo)
+- [User Gaze Redirection Demo](#user-gaze-redirection-demo)
 - [Simon Game Demo](#simon-game-demo)
 - [UR Robot Point Programming](#ur-robot-point-programming)
 
@@ -81,6 +83,10 @@ The mechanism for this experience is as follows: A voice command (HoloLens) or a
 [![Put That, There with Onshape Twin](https://img.youtube.com/vi/_Gu3hrTNyVs/0.jpg)](https://www.youtube.com/watch?v=_Gu3hrTNyVs)
 
 The "Put That, There Demo" experiences can be downloaded [here](https://github.com/PTC-Education/Gaze-Tracking-Demos/raw/main/AR%20Experience%20Files/Put_That__There_Demo.zip) for mobile devices or [here](https://github.com/PTC-Education/Gaze-Tracking-Demos/raw/main/AR%20Experience%20Files/Put_That__There_Demo_-_HoloLens.zip) for 3D Eyeware, or viewed with the [ThingMark](#thingmark-for-viewing-ar-experiences) above.
+
+### User Gaze Redirection Demo
+
+The "User Gaze Redirection Demo" experience can be downloaded [here](https://github.com/PTC-Education/Gaze-Tracking-Demos/raw/main/AR%20Experience%20Files/Understanding_Gaze_Tracking_Demo.zip)
 
 ### Simon Game Demo
 
