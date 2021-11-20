@@ -2,7 +2,7 @@
 
 **Purpose:** To inspire creativity in others to find meaningful applications for gaze tracking.
 
-**Summary:** A conglomeration of AR experiences that showcase the power of gaze tracking. The experiences herein can be classified into two primary groups,  object manipulation or analytical applications. Each experience highlights a separate use case and is intended to inspire AR authors think about how gaze tracking could enhance their own AR experiences.
+**Summary:** A conglomeration of AR experiences that showcase the power of gaze tracking. The experiences herein can be classified into two primary groups, object manipulation or analytical applications. Each experience highlights a separate use case and is intended to inspire AR authors think about how gaze tracking could enhance their own AR experiences.
 
 ### **Table of Contents**
 
@@ -26,7 +26,7 @@
 
 ### Background Explanation
 
-Before we jump right into an explanation of gaze tracking, it is important that you understand a little bit about how the position and orientation of objects are defined in a virtual 3D space. To start off, virtually positioning an object in a 3D environment isn't something that was invented for augmented reality. It has actually been around much longer and is widely used in almost every video game you have ever played. It is what allows the computer to keep track of your character and the other objects in the environment and is crucial as you move throughout the virtual area.
+Before we jump right into an explanation of gaze tracking, it is important that you understand a little bit about how the position and orientation of objects are defined in a virtual 3D space. To start off, virtually positioning an object in a 3D environment isn't something that was invented for augmented reality. It has actually been around much longer and is widely used in almost every video game you have ever played. It is what allows the computer to keep track of your character and the other objects in the environment and is crucial as your character moves throughout the virtual area.
 
 In order to define an object's position, the computer must know the object's location and which way it is facing. The location data typically come in the form of 3-dimensional coordinates *(X,Y,Z)*, while the orientation data are commonly a set of angles or orthogonal vectors. These data fully-define any object in 3D space and are essential for a realistic rendering of the virtual environment.
 
