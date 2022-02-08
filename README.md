@@ -86,6 +86,8 @@ The "Put That, There Demo" experiences can be downloaded [here](https://github.c
 
 ### User Gaze Redirection Demo
 
+**NEW!** Check out the [custom widget](https://github.com/jtfrandsen/JTF-Custom-VS-Widgets) I designed to it make even easier to add this arrow to your AR experience!
+
 This example demonstrates how gaze tracking can be used to monitor where users are looking within an experience and redirect their gaze if necessary. This capability is useful for first-time users of an AR experience who are not familiar with where they need to point their device. It is easy to get lost in a new, virtual space which is when this AR experience becomes useful.
 
 This AR experience operates by monitoring how focused the users gaze is on a certain object (in this case, a pneumatic valve assembly). If their focus ever falls below some defined threshold, an arrow appears on-screen and points them back to the target object. This arrow moves with the user's device to stay in the center of the screen and can rapidly roll, pitch, or yaw as a means of directing the user to look where they need to. A brief screen recording of this AR experience is included below:
